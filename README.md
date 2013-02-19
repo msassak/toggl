@@ -1,2 +1,3 @@
-toggl
-=====
+# Toggl
+
+Feature toggler for Erlang.

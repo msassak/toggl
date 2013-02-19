@@ -1,0 +1,12 @@
+{application, toggl,
+ [
+  {description, "Feature toggling"},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { tgl_app, []}},
+  {env, []}
+ ]}.
